@@ -5,10 +5,31 @@ This repo includes the following files:
 
 README.md: This file, which contains a summary of files used for this project
 
-project_file.md: The final write-up documenting my data wrangling process and findings
+ 
 
-Final_code.py:  The code that call the fuctions to parse, clean the data, output as CSVs, and sql queries
+Audit.ipynb used to audit the data
 
-schema.py: The schema used for my SQL database
+create_DB.ipynb used to create the database 
 
-houston.osm: the file that I downloaded from OpenStreetMap
+OSM_To_CSV.ipynb used to create the csv files from the OSM data
+
+data.py 
+
+schema.py 
+
+nodes.csv 
+
+Nodes_tags.csv 
+
+Ways.csv 
+
+Ways_tags.csv 
+
+Houston_Tx.db 
+
+HoustonTex.xml 
+
+Houston_Texas_Sample.osm 
+
+
+ 

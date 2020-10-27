@@ -13,9 +13,8 @@ create_DB.ipynb used to create the database
 
 OSM_To_CSV.ipynb used to create the csv files from the OSM data
 
-data.py 
 
-schema.py 
+CSV, OSM, and database files created
 
 nodes.csv 
 

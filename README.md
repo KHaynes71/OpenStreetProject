@@ -3,18 +3,20 @@ I created this repo to house my work for the Open Street Map project as part of 
 
 This repo includes the following files:
 
-README.md: This file, which contains a summary of files used for this project
+README.md - This file, which contains a summary of files used for this project
 
- 
+Map_Area.txt - A text file that contains an explanation of why I chose the map area and a link to the map area.
 
-Audit.ipynb used to audit the data
+OSM Project Final Report.pdf - A .pdf file explaning what I did in the report with screen shots of the code and output.
 
-create_DB.ipynb used to create the database 
+OSM Project Resources.txt - A text file that contains a list of the resources with links that I used to complete this project. 
 
-OSM_To_CSV.ipynb used to create the csv files from the OSM data
+OSM_To_CSV.py - file includes the origianol data.py file from Udacity. This code audits the data and cleans the data street names and postal codes.
+Then the code takes the .osm file and shapes the data into 5 differenct .csv files.
 
+create_DB.py - Creates a SQL database that can be queried to look at the data. 
 
-CSV, OSM, and database files created
+## CSV, OSM, and database files created
 
 nodes.csv 
 
@@ -23,10 +25,6 @@ Nodes_tags.csv
 Ways.csv 
 
 Ways_tags.csv 
-
-Houston_Tx.db 
-
-HoustonTex.xml 
 
 Houston_Texas_Sample.osm 
 

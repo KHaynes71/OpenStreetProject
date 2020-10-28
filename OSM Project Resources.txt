@@ -1,0 +1,9 @@
+During the course of the project I consulted github, Udacity data wrangling class, stack overflow, and python for beginners websites. Below is a list of websites that I consulted
+
+
+https://github.com/AdkinsWx/OpenStreetMap_Udacity
+https://github.com/davidventuri/udacity-dand/blob/master/p3/report.md
+http://www.pythonforbeginners.com/basics/ipython-a-short-introduction
+https://stackoverflow.com/questions/52676660/jupyter-notebook-w-python-kernel-error
+https://stackoverflow.com/questions/52397069/python-jupyter-notebook-wont-run-code-keeps-reconnecting
+https://morioh.com/p/8cd3265a4179
